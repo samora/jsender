@@ -1,0 +1,24 @@
+{
+  "name": "jsender",
+  "version": "0.0.1",
+  "description": "Simple and structured application level JSON responses for Express. Based on JSend specification.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samora/jsender.git"
+  },
+  "keywords": [
+    "jsend",
+    "json",
+    "api",
+    "response",
+    "middleware",
+    "express"
+  ],
+  "author": "Samora Dake",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samora/jsender/issues"
+  },
+  "homepage": "https://github.com/samora/jsender"
+}
