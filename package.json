@@ -1,5 +1,5 @@
 {
-  "name": "jsender",
+  "name": "JSender",
   "version": "0.0.1",
   "description": "Simple and structured application level JSON responses for Express. Based on JSend specification.",
   "main": "index.js",
