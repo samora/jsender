@@ -39,7 +39,7 @@ JSender augments the node `res` object with the following methods.
 
 ### `success(data)`
 
-* __data__: _Optional_ response data.
+* __data__: _Optional_ response data object.
 
 ```javascript
 function (req, res){
@@ -98,7 +98,7 @@ function (req, res){
 ### `jsend(err, data)`
 
 * __err__: An error object or `null`.
-* __data__: _Optional_ Data.
+* __data__: _Optional_ response data object.
 
 ```javascript
 function (req, res){
