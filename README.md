@@ -1,4 +1,7 @@
 # JSender
+
+[![Build Status](https://travis-ci.org/samora/jsender.svg?branch=master)](https://travis-ci.org/samora/jsender)
+
 Simple and structured application level JSON responses for [Express](http://expressjs.com).
 Based on JSend specification ([http://labs.omniti.com/labs/jsend](http://labs.omniti.com/labs/jsend)).
 
