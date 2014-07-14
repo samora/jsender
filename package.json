@@ -1,6 +1,6 @@
 {
   "name": "jsender",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple and structured application level JSON responses for Express. Based on JSend specification.",
   "main": "lib/index.js",
   "repository": {
