@@ -59,5 +59,9 @@ describe('jsender', function () {
 res = {
   json: function (obj) {
     return obj
+  },
+
+  status: function (code) {
+    return code
   }
 }
